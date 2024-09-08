@@ -8,3 +8,4 @@ Project:
 6. push branch baru ke remote
 7. merge branch baru itu ke main
 8. Mencoba git diff
+9. aww
